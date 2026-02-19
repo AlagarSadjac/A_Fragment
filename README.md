@@ -28,4 +28,6 @@ The app features a bottom navigation style where clicking a button replaces the 
 Download the APK: Go to the Releases section and download app-debug.apk to install on your device.
 Explore Source Code: Download the Source code (zip) to view the implementation logic in Android Studio.
 Developed with ❤️ by Alaga S
-DOWNLOAD APP [https://github.com/AlagarSadjac/A_Fragment/releases/download/V1.0.0/app-debug.apk]
+
+DOWNLOAD APP
+[https://github.com/AlagarSadjac/A_Fragment/releases/download/V1.0.0/app-debug.apk]
