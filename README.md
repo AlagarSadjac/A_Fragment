@@ -18,10 +18,11 @@ UI Components: FrameLayout, RelativeLayout, LinearLayout, and Buttons.
 
 📸 Screenshots
 The app features a bottom navigation style where clicking a button replaces the content in the top container.
-![frag](https://github.com/user-attachments/assets/3b443a35-bd71-453e-9894-a34a05e6b36b)
+![frag](https://github.com/user-attachments/assets/e144b778-42f7-422c-9026-c083df3b45bc)
+![frag0](https://github.com/user-attachments/assets/3b443a35-bd71-453e-9894-a34a05e6b36b)
 ![frag1](https://github.com/user-attachments/assets/5b671a1f-c4f5-4ad0-b643-027eb8908fa8)
 ![frag2](https://github.com/user-attachments/assets/72ba49c3-46f8-4eda-988e-3b9e2a70f691)
-![frag3](https://github.com/user-attachments/assets/e144b778-42f7-422c-9026-c083df3b45bc)
+
 
 📦 How to Use
 Download the APK: Go to the Releases section and download app-debug.apk to install on your device.
