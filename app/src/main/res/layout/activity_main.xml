@@ -4,7 +4,7 @@
     android:layout_height="match_parent">
 
 
-    <FrameLayout
+    <androidx.fragment.app.FragmentContainerView
         android:id="@+id/F"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -24,35 +24,40 @@
 
 
         <Button
+
+                style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
                 android:id="@+id/B1"
                 android:textColor="@color/black"
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
+                android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text="click1"
-                android:textSize="20sp"
-                android:layout_margin="10dp"/>
+                android:text="Home"
+                android:textSize="10sp"
+                android:layout_margin="5dp"/>
 
             <Button
+                style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
                 android:id="@+id/B2"
                 android:textColor="@color/black"
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
+                android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text="click2"
-                android:textSize="20sp"
-                android:layout_margin="10dp"/>
+                android:text="Profile"
+                android:textSize="10sp"
+                android:layout_margin="5dp"/>
 
             <Button
+                style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
                 android:id="@+id/B3"
                 android:textColor="@color/black"
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
+                android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text="click3"
-                android:textSize="20sp"
-                android:layout_margin="10dp"/>
+                android:text="settings"
+                android:textSize="10sp"
+                android:layout_margin="5dp"/>
 
         </LinearLayout>
     </RelativeLayout>
-
-
 
 </RelativeLayout>
